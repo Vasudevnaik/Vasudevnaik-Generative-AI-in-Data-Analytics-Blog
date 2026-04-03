@@ -1,1 +1,1 @@
-# Vasudevnaik-Generative-AI-in-Data-Analytics-Blog
+Generative-AI-in-Data-Analytics-Blog
